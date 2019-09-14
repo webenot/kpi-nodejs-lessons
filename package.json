@@ -1,0 +1,22 @@
+{
+  "name": "kpi-nodejs-lessons",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webenot/kpi-nodejs-lessons.git"
+  },
+  "author": "webenot",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/webenot/kpi-nodejs-lessons/issues"
+  },
+  "homepage": "https://github.com/webenot/kpi-nodejs-lessons#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
