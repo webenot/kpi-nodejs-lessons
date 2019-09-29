@@ -14,9 +14,6 @@ rules:
         let: 2
         const: 3
       MemberExpression: 1
-  linebreak-style:
-    - error
-    - unix
   quotes:
     - error
     - single
@@ -66,7 +63,7 @@ rules:
           after: false
   max-len:
     - error
-    - code: 80
+    - code: 100
       ignoreUrls: true
   max-nested-callbacks:
     - error
