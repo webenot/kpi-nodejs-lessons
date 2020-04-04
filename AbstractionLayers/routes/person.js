@@ -24,7 +24,7 @@ const person = function(req, res) {
       }
     });
   };
-  // Writing person's dataon POST request
+  // Writing person's data on POST request
   this.write = function(req, res) {
     const after = (data) => {
       let status, end = '';
